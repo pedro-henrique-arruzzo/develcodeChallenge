@@ -5,7 +5,9 @@ This application was developed as a test for Develcode
 ## Used Stack
 
 • Spring boot
+
 • Java 11
+
 • PostgreSQL
 
 ## Steps to run the application
